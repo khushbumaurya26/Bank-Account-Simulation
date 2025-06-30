@@ -23,10 +23,10 @@ This project simulates basic banking operations using Object-Oriented Programmin
 ## 📂 Project Structure
 
 BankAccountSimulation/
-├── BankAccount.java 
-├── Main.java
-├── Output.png
-└── README.md 
+ ├── BankAccount.java 
+ ├── Main.java
+ ├── Output.png
+ └── README.md 
 
 
 ---
@@ -43,7 +43,7 @@ BankAccountSimulation/
 ## 🚀 How to Run
 
 1. **Clone the repository:**
-   git clone https://github.com/your-username/BankAccountSimulation.git
+   git clone https://github.com/khushbumaurya26/BankAccountSimulation.git
    cd BankAccountSimulation
    
 Compile the Java files:
